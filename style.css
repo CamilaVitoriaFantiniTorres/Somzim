@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'comic-sans';
+    background: white;
+}
+
+.header_div
+{
+    background: white;
+    color: #DA70D6;
+}
+
+.header_div p{
+    font-family: 'comic-sans';
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'comic-sans';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+.copy_right_footer {
+    position: fixed;
+    color:	#000000;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #FF69B4;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(192, 164, 164);
+}
